@@ -37,7 +37,7 @@ python --version
 ```bash
 python server.py --host 127.0.0.1 --port 6000
 ```
-You should see:
+You will see:
 ```
 [server] listening on 127.0.0.1:6000
 ```
