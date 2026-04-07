@@ -80,7 +80,7 @@ After you click **Connect**, wait for the other player. When both player icons s
 
 
 ## Video Demo Link
-- ** ...... **
+https://youtu.be/wyWKxfGL1_Y
 
 ## AI Reference
 This project used AI assistance (Chat GPT) for code reference and wording support.
